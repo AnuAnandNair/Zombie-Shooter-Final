@@ -45,7 +45,7 @@ function setup() {
   //adding the background image
     bg = createSprite(width/2-20,height/2-40,20,20);
     bg.addImage(bgImg);
-    bg.scale = 1.1;
+    bg.scale = 1.11;
   
 
   //creating the player sprite
